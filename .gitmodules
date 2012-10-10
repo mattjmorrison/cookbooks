@@ -1,0 +1,18 @@
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/heavywater/chef-jenkins.git
+[submodule "yum"]
+	path = yum
+	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "iptables"]
+	path = iptables
+	url = https://github.com/opscode-cookbooks/iptables.git
+[submodule "runit"]
+	path = runit
+	url = https://github.com/opscode-cookbooks/runit.git
+[submodule "java"]
+	path = java
+	url = https://github.com/opscode-cookbooks/java.git
