@@ -16,3 +16,12 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/opscode-cookbooks/java.git
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "chef-jscoverage"]
+	path = chef-jscoverage
+	url = https://github.com/chrisblackburn/chef-jscoverage.git
+[submodule "nodejs-cookbook"]
+	path = nodejs-cookbook
+	url = https://github.com/mdxp/nodejs-cookbook.git
